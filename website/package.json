@@ -1,5 +1,5 @@
 {
-  "name": "website",
+  "name": "Portfolio - Harish Bommakanti",
   "version": "0.0.1",
   "description": "Personal website",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "name": "Harish Bommakanti",
     "email": ""
   },
-  "repository": "https://github.com/harbom/harbom.github.io/website",
+  "repository": "https://github.com/harbom/harbom.github.io",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"

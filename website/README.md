@@ -1,13 +1,5 @@
-# website
+# Harish Bommakanti
 
-> Personal website
+Hey! I'm an undergraduate freshman at UT Austin pursuing a B.S. in Computer Science and Mathematics.
 
-## Development
-
-```bash
-yarn dev
-yarn build
-```
-
-For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
-
+My current interests lie in software engineering, robotics, and machine learning, but I'm always looking to learn about new fields as I progress in my career.
