@@ -1,12 +1,11 @@
 # Home
-Hey! I'm an undergraduate freshman at UT Austin pursuing a B.S. in Computer Science and Mathematics. Check out my [Education](./Education.md) page for more information!
+Hey! I'm an undergraduate freshman at UT Austin pursuing a double major in Computer Science and Mathematics.
 
 ## About
-My current interests lie in software engineering, robotics, and machine learning, but I'm always looking to learn about new fields and build new [projects](./Projects.md).
+My current interests are:
+* Software Engineering
+* Robotics
+* Machine Learning
+* Research
 
-## Skills
-Proficient with:
-__Java, Python, Javascript, HTML/CSS, Git/Github__
-
-Familiar with:
-__LabVIEW, GoLang__
+I'm always looking to learn about new fields as I take more classes and start new [projects](./Projects.md).
