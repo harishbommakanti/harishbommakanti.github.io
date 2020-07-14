@@ -2,6 +2,9 @@
 
 module.exports = {
     title: 'Harish Bommakanti',
+    search: false,
+    nextLinks: false,
+    prevLinks: false,
     
     themeConfig: {
         sidebar: [

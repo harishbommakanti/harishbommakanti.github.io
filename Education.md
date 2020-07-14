@@ -1,6 +1,12 @@
 # Education
+## University of Texas at Austin (August 2020 - Present)
+*Bachelors of Science in Computer Science* (exp. grad: 2024) <br>
+*Bachelors of Science in Mathematics* (exp. grad: 2024  )
 
-## Rouse High School (2016 - 2020)
+Clubs and positions:
+* Research
+
+## Rouse High School (August 2016 - July 2020)
 GPA: 4.0, Rank: 2/400
 
 Relevant coursework: AP Computer Science, AP Calculus BC, AP Statistics
@@ -10,6 +16,7 @@ Clubs and positions:
     * Developed a scouting app for to automate the collection of data at competitions.
     * Software/Electrical lead for 3 years, Program manager for 1 year.
     * Lead software development efforts and worked with mentors to fix critical bugs at competitions.
+    * Invited to FRC World Championships twice.
 * Competitive Math/CS competitions such as UIL
     * Placed top 3 in Lockheed Martin's Cyberquest competition.
     * Placed top 5 in UIL CS scores.

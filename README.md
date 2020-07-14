@@ -1,5 +1,5 @@
 # Home
-Hey! I'm an undergraduate freshman at UT Austin pursuing a double major in Computer Science and Mathematics.
+Hey! I'm an undergraduate freshman at UT Austin pursuing a double major in Computer Science and Mathematics
 
 ## About
 My current interests are:

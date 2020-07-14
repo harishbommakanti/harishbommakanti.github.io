@@ -1,15 +1,15 @@
 # Skills
 
 ## Programming Languages
-Proficient with:
-__Java, Python, Javascript, HTML/CSS__
+Proficient with: **Java, Python, JavaScript, HTML/CSS**
 
-Familiar with:
-__LabVIEW, GoLang__
+Familiar with: **LabVIEW, GoLang**
 
 ## Software
-Proficient with:
-__Git/Github, Jetbrains IDE Suite, Visual Studio Code__
+Proficient with: **Git/Github, Jetbrains IDE Suite, Visual Studio Code**
 
-Familiar with:
-__Autodesk Inventor, ArcGIS__
+## Machine Learning Frameworks
+Familiar with: **Scikit-Learn, Keras**
+
+## Web Frameworks
+Familiar with: **Vanilla JS/HTML/CSS, Jekyll, Vue.js**
