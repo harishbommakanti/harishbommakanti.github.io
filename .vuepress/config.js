@@ -2,11 +2,12 @@
 
 module.exports = {
     title: 'Harish Bommakanti',
-    search: false,
-    nextLinks: false,
-    prevLinks: false,
     
     themeConfig: {
+        search: false,
+        nextLinks: false,
+        prevLinks: false,
+
         sidebar: [
           '/',
           '/Education.md',
@@ -15,5 +16,9 @@ module.exports = {
           '/Projects.md',
           '/Resume.md'
         ]
-      }
+      },
+    
+    markdown: {
+        anchor: { permalink: true, permalinkBefore: true, permalinkSymbol: '' }   
+    }
 }
