@@ -1,7 +1,7 @@
 // /.vuepress/config.js
 
 module.exports = {
-    title: 'Portfolio - Harish Bommakanti',
+    title: 'Harish Bommakanti',
     
     themeConfig: {
         sidebar: [
