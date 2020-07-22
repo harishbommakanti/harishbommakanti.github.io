@@ -1,12 +1,23 @@
 # Education
-## University of Texas at Austin (August 2020 - Present)
-*Bachelors of Science in Computer Science* (exp. grad: 2024) <br>
-*Bachelors of Science in Mathematics* (exp. grad: 2024  )
+## University of Texas at Austin | August 2020 - Present
+<div style="display: flex; align-items: flex-start">
+<h3 style="width: 80%">Bachelors of Science in Computer Science</h3>
+<h4 style="width: 20%"><i>Exp. Grad. 2024</i></h4>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top:-40px">
+<h3 style="width: 80%">Bachelors of Science in Mathematics</h3>
+<h4 style="width: 20%"><i>Exp. Grad. 2024</i></h4>
+</div>
+
+GPA: 4.0
+
+Relevant coursework: **Data Structures, Discrete Math, Introduction to Probability**
 
 Clubs and positions:
 * Research
 
-## Rouse High School (August 2016 - July 2020)
+## Rouse High School | August 2016 - July 2020
 GPA: 4.0, Rank: 2/400
 
 Relevant coursework: AP Computer Science, AP Calculus BC, AP Statistics
