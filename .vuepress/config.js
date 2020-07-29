@@ -4,17 +4,19 @@ module.exports = {
     title: 'Harish Bommakanti',
     
     themeConfig: {
-        search: false,
         nextLinks: false,
         prevLinks: false,
+        displayAllHeaders: true,
+        smoothScroll: true,
+        searchPlaceholder: 'College, Java, Resume...',
 
         sidebar: [
-          '/',
-          '/Education.md',
-          '/Skills.md',
-          '/Experience.md',
-          '/Projects.md',
-          '/Resume.md'
+          ['/','Home'],
+          '/Education',
+          '/Skills',
+          '/Experience',
+          '/Projects',
+          '/Resume'
         ]
       },
     

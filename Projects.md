@@ -1,3 +1,20 @@
+---
+tags: 
+  - Java
+  - Interpreter
+  - Langauge design
+  - data structures
+  - algorithms
+  - neural network
+  - python
+  - flask
+  - ui
+  - ux
+  - javascript
+  - html
+  - css
+  - jekyll
+---
 # Projects
 
 This page lists the major projects I've been involved in but you can find the source code for these projects and more on [GitHub](https://github.com/harbom).

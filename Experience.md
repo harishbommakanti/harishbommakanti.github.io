@@ -1,3 +1,11 @@
+---
+tags: 
+  - research
+  - python
+  - data science
+  - robotics
+  - nasa
+---
 # Experience
 ## High School
 <div style="display: flex; align-items: flex-start">

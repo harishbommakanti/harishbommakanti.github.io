@@ -1,3 +1,16 @@
+---
+tags:
+  - UT
+  - Austin
+  - college
+  - BS
+  - CS
+  - math
+  - data structures
+  - discrete math
+  - probability
+  - high school
+---
 # Education
 ## University of Texas at Austin | August 2020 - Present
 <div style="display: flex; align-items: flex-start">
