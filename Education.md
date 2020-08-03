@@ -13,12 +13,12 @@ tags:
 ---
 # Education
 ## University of Texas at Austin | August 2020 - Present
-<div style="display: flex; align-items: flex-start">
+<div style="display: flex; align-items: baseline">
 <h3 style="width: 80%">Bachelors of Science in Computer Science</h3>
 <h4 style="width: 20%"><i>Exp. Grad. 2024</i></h4>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top:-40px">
+<div style="display: flex; align-items: baseline; margin-top:-40px">
 <h3 style="width: 80%">Bachelors of Science in Mathematics</h3>
 <h4 style="width: 20%"><i>Exp. Grad. 2024</i></h4>
 </div>

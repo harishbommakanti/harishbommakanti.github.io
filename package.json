@@ -1,6 +1,8 @@
 {
-    "scripts": {
-      "docs:build": "vuepress build ./"
-    }
+  "scripts": {
+    "docs:build": "vuepress build ./"
+  },
+  "dependencies": {
+    "vue-typer": "^1.2.0"
   }
-  
+}

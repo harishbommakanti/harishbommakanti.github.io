@@ -6,7 +6,12 @@ tags:
   - github
   - email
 ---
-# Harish Bommakanti
+
+<Typer/>
+
+# Home
+
+<div class="img-container">
 
 <style>
 .img-container img {
@@ -14,8 +19,6 @@ tags:
     height: 20%;
 }
 </style>
-
-<div class="img-container">
 
 ![Profile pic](./images/face.jpg)
 

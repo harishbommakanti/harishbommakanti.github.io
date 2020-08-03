@@ -6,18 +6,19 @@ tags:
   - robotics
   - nasa
 ---
+
 # Experience
-## High School
-<div style="display: flex; align-items: flex-start">
-<h3 style="width: 80%">Computational Hydraulics Group Research Lab, UT Austin</h3>
+
+<div style="display: flex; align-items: baseline">
+<h2 style="width: 80%">Computational Hydraulics Group Research Lab, UT Austin</h2>
 <h4 style="width: 20%"><i>Summer 2019</i></h4>
 </div>
 
 - Ran simulations on TACC supercomputers using software developed by the CHG labs to simulate coastal models.
 - Modified/created FORTRAN 90 and Python scripts using data science libraries such as Matplotlib, Numpy, and Pandas along with development tools such as Jupyter Notebooks to help visualize ADCIRC results.
 
-<div style="display: flex; align-items: flex-start">
-<h3 style="width: 80%">NASA SEES Internship</h3>
+<div style="display: flex; align-items: baseline">
+<h2 style="width: 80%">NASA SEES Internship</h2>
 <h4 style="width: 20%"><i>Summer 2018</i></h4>
 </div>
 
