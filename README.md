@@ -8,7 +8,9 @@ tags:
   - email
 ---
 
-<Typer/>
+<ClientOnly>
+  <Typer />
+</ClientOnly>
 
 # Home
 

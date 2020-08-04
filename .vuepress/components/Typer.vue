@@ -13,12 +13,7 @@ var myComponent = {
     }
 }
 
-console.log(VueTyper)
-export default {
-  // ...
-  components: {
-    // ES6; property shorthand + Vue should automatically dasherize the key for us
-    VueTyper
-    }
-}
+Vue.component('vue-typer',VueTyper)
+
+console.log(myComponent)
 </script>
