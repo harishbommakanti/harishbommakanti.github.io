@@ -12,7 +12,6 @@ tags:
   - jekyll
   - scikit-learn
 ---
-# Skills
 
 ## Programming Languages
 Proficient with: **Java, Python, JavaScript, HTML/CSS**

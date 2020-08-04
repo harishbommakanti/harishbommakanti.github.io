@@ -16,12 +16,10 @@ tags:
   - css
   - jekyll
 ---
-# Projects
-
 This page lists the major projects I've been involved in but you can find the source code for these projects and more on [GitHub](https://github.com/harbom).
 
 ## The Redaction Programming Language
-- Wrote an Interpreter from scratch in Java for Redaction, a toy programming language formed around the core syntax of C based languages.
+- Wrote an Interpreter from scratch in Java for Redaction, a small scripting language formed around the core syntax of C based languages, Python, and Javascript.
 - Goal of the project was to gain a deeper understanding of theoretical/practical language design as well as have fun at incorporating our own ideas.
 
 Skills Demonstrated: **Data Structures/Algorithms, Programming Language/Interpreter Design**
