@@ -7,9 +7,18 @@ var VueTyper = require('vue-typer').VueTyper
 
 console.log(VueTyper)
 
-export default {
+var myComponent = {
     components: {
         VueTyper
+    }
+}
+
+console.log(VueTyper)
+export default {
+  // ...
+  components: {
+    // ES6; property shorthand + Vue should automatically dasherize the key for us
+    VueTyper
     }
 }
 </script>

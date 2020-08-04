@@ -1,4 +1,5 @@
 ---
+sidebarDepth: 2
 tags: 
   - Java
   - Interpreter
@@ -27,7 +28,7 @@ Skills Demonstrated: **Data Structures/Algorithms, Programming Language/Interpre
 
 Technologies Used: **Java**
 
-[Website](), [GitHub](https://github.com/harbom/Redaction-Programming-Language)
+[Website](https://redactionpl.netlify.app), [GitHub](https://github.com/harbom/Redaction-Programming-Language)
 
 ## Convolutional Neural Network from Scratch for Handwritten Digit Classification
 - Built a Convolutional Neural Network (CNN) from scratch in Python to classify handwritten digits.

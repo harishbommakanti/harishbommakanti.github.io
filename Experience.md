@@ -1,4 +1,5 @@
 ---
+sidebarDepth: 2
 tags: 
   - research
   - python
