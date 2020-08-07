@@ -11,7 +11,10 @@ tags:
   - probability
   - high school
 ---
-## University of Texas at Austin [*August 2020 - Present*]
+# Education
+
+## University of Texas at Austin
+> ***August 2020 - Present***
 - Bachelors of Science in Computer Science
 - Bachelors of Science in Mathematics
 
@@ -21,7 +24,9 @@ Relevant coursework: Data Structures, Discrete Math, Introduction to Probability
 
 Clubs and positions:
 
-## Rouse High School [*August 2016 - July 2020*]
+## Rouse High School
+> ***August 2016 - July 2020***
+
 GPA: 4.0, Rank: 2/400
 
 Relevant coursework: AP Computer Science, AP Calculus BC, AP Statistics

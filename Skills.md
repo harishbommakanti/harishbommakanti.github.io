@@ -12,17 +12,18 @@ tags:
   - jekyll
   - scikit-learn
 ---
+# Skills
 
 ## Programming Languages
-Proficient with: **Java, Python, JavaScript, HTML/CSS**
+Proficient with: `Java, Python, JavaScript, HTML/CSS`
 
-Familiar with: **LabVIEW, GoLang**
+Familiar with: `LabVIEW, GoLang`
 
 ## Software
-Proficient with: **Git/Github, Jetbrains IDE Suite, Visual Studio Code**
+Proficient with: `Git/Github, Jetbrains IDE Suite, Visual Studio Code`
 
 ## Web Frameworks
-Familiar with: **Vanilla JavaScript/HTML/CSS, Jekyll**
+Familiar with: `JavaScript/HTML/CSS, Jekyll, Vue.js`
 
 ## Machine Learning Frameworks
-Familiar with: **Scikit-Learn**
+Familiar with: `Scikit-Learn`
