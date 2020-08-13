@@ -1,11 +1,5 @@
 ---
 sidebarDepth: 2
-tags: 
-  - interests
-  - contact
-  - linkedin
-  - github
-  - email
 ---
 <div class="img-container">
 <style>
@@ -45,5 +39,5 @@ Please feel free to reach out to me for any question and other opportunities. I 
 
 <div style="display: flex; align-items:baseline">
 <p style= 'width: 50%'>Github:</p>
-<a href="https://github.com/harbom" target="_blank">github.com/harbom</a>
+<a href="https://github.com/harishbommakanti" target="_blank">github.com/harishbommakanti</a>
 </div>

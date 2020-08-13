@@ -6,26 +6,23 @@ tags:
   - BS
   - CS
   - math
-  - data structures
-  - discrete math
-  - probability
+  - coursework
   - high school
 ---
 # Education
 
 ## University of Texas at Austin
-> ***August 2020 - Present***
-- Bachelors of Science in Computer Science
-- Bachelors of Science in Mathematics
+> **August 2020 - Present**
+
+*Bachelors of Science in Computer Science*
+*Bachelors of Science in Mathematics*
 
 GPA: 4.0
 
 Relevant coursework: Data Structures, Discrete Math, Introduction to Probability
 
-Clubs and positions:
-
 ## Rouse High School
-> ***August 2016 - July 2020***
+> **August 2016 - July 2020**
 
 GPA: 4.0, Rank: 2/400
 

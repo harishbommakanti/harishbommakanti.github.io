@@ -3,27 +3,25 @@ sidebarDepth: 2
 tags: 
   - java
   - python
-  - javascript
+  - JavaScript
   - html
   - css
-  - javascript
   - labview
-  - go
   - jekyll
   - scikit-learn
 ---
 # Skills
 
 ## Programming Languages
-Proficient with: `Java, Python, JavaScript, HTML/CSS`
+Proficient with: `Java, Python, JavaScript`
 
-Familiar with: `LabVIEW, GoLang`
+Familiar with: `LabVIEW`
 
 ## Software
 Proficient with: `Git/Github, Jetbrains IDE Suite, Visual Studio Code`
 
 ## Web Frameworks
-Familiar with: `JavaScript/HTML/CSS, Jekyll, Vue.js`
+Familiar with: `JavaScript/HTML/CSS, Jekyll`
 
 ## Machine Learning Frameworks
 Familiar with: `Scikit-Learn`

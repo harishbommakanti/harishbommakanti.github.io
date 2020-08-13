@@ -1,41 +1,43 @@
 ---
 sidebarDepth: 2
-tags: 
+tags:
+  - Github
   - Java
   - Interpreter
   - Langauge design
   - data structures
   - algorithms
-  - neural network
   - python
-  - flask
   - ui
   - ux
-  - javascript
+  - JavaScript
   - html
   - css
   - jekyll
 ---
 # Projects
 
+Here are my most significant projects. Check out my [GitHub](github.com/harishbommakanti) to see the source code and documentation for these projects and more.
+
 ## The Redaction Programming Language
-- Wrote an Interpreter from scratch in Java for Redaction, a small scripting language formed around the core syntax of C based languages, Python, and Javascript.
+- Wrote an Interpreter from scratch in Java for Redaction, a small scripting language formed around the core syntax of C based languages, Python, and JavaScript.
 - Goal of the project was to gain a deeper understanding of theoretical/practical language design as well as have fun at incorporating our own ideas.
 
 Skills Demonstrated: `Data Structures/Algorithms, Programming Language/Interpreter Design`
 
 Technologies Used: `Java`
 
-[Website](https://redactionpl.netlify.app), [GitHub](https://github.com/harbom/Redaction-Programming-Language)
+[Website](https://redactionpl.netlify.app), [GitHub](https://github.com/harishbommakanti/Redaction-Programming-Language)
 
-## Weather Prediction Web App
-- Built a website to predict the current day's weather based off of the past `n` days of weather data, such as humidity and air quality, using machine learning.
+## Weather Prediction
+- A CLI program in Python to predict weather given data from the past 5 days.
+- Uses time series modeling to produce a multi-step forecast for 48 hours past the current time.
 
-Skills Demonstrated: `App Deployment, UI/UX Design, Databases`
+Skills Demonstrated: `CLI Development, API Usage, Time Series Forecasting`
 
-Technologies Used: `Go, MongoDB, Vue.js`
+Technologies Used: `Python, JavaScript`
 
-[Website](), [GitHub](https://github.com/harbom/Weather-Prediction)
+[GitHub](https://github.com/harishbommakanti/Weather-Prediction)
 
 ## Rouse Robotics Scouting App
 - Published a web application for the school’s robotics team to automate the process of gathering data from other teams robotics competitions.
@@ -43,7 +45,7 @@ Technologies Used: `Go, MongoDB, Vue.js`
 
 Skills Demonstrated: `Formal code reviews, App deployment, UI/UX Design`
 
-Technologies Used: `Javascript, HTML, CSS, Jekyll`
+Technologies Used: `JavaScript, HTML, CSS, Jekyll`
 
 [Website](https://scouting.rouserobotics.com), [GitHub](https://github.com/Team6321/Scouting_App)
 
