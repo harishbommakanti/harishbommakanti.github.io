@@ -7,6 +7,7 @@ tags:
   - Langauge design
   - data structures
   - algorithms
+  - programming
   - python
   - ui
   - ux

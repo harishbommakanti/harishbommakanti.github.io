@@ -5,6 +5,7 @@ tags:
   - python
   - JavaScript
   - html
+  - C
   - css
   - labview
   - jekyll
@@ -13,7 +14,7 @@ tags:
 # Skills
 
 ## Programming Languages
-Proficient with: `Java, Python, JavaScript`
+Proficient with: `Java, Python, C, JavaScript`
 
 Familiar with: `LabVIEW`
 
@@ -24,4 +25,4 @@ Proficient with: `Git/Github, Jetbrains IDE Suite, Visual Studio Code`
 Familiar with: `JavaScript/HTML/CSS, Jekyll`
 
 ## Machine Learning Frameworks
-Familiar with: `Scikit-Learn`
+Familiar with: `Scikit-Learn, Robosuite`

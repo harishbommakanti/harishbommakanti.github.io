@@ -4,8 +4,19 @@ tags:
   - research
   - python
   - nasa
+  - reinforcement learning
+  - robosuite
+  - robotics
+  - programming
 ---
 # Experience
+
+## Robot Perception and Learning Lab
+
+> **October 2020 - Present**
+
+- Integrated and tuned a set of evaluations for the PPO reinforcement learning algorithm in Python to benchmark [Robosuite](http://robosuite.ai/), the modular robotics and robot learning framework.
+
 
 ## Computational Hydraulics Group Research Lab at UT Austin
 

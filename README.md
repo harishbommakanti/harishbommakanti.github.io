@@ -13,7 +13,7 @@ sidebarDepth: 2
 
 </div>
 
-<b><p style = 'color:#4293d4'>Hey! My name is Harish Bommakanti and I'm an undergraduate freshman at UT Austin pursuing a double major in Computer Science and Mathematics.</p></b>
+<b><p style = 'color:#4293d4'>Hey! My name is Harish Bommakanti and I'm an undergraduate at UT Austin pursuing a Bachelors in Computer Science.</p></b>
 
 ## Interests
 My current interests are:

@@ -5,6 +5,7 @@ tags:
   - college
   - BS
   - CS
+  - programming
   - math
   - coursework
   - high school
@@ -15,11 +16,21 @@ tags:
 > **August 2020 - Present**
 
 *Bachelors of Science in Computer Science*
-*Bachelors of Science in Mathematics*
 
 GPA: 4.0
 
-Relevant coursework: Data Structures, Discrete Math, Introduction to Probability
+**Relevant coursework**:
+* Computer Architecture (CS 429)
+* Data Structures (CS 314)
+* FRI Robot Learning (CS 309)
+* Discrete Math (CS 311)
+* Competitive Programming (CS 104C)
+* Introduction to Probability/Statistics (SDS 321)
+
+**Teaching Assistant for**:
+* Elements of Computers/Programming (CS 303E)
+
+
 
 ## Rouse High School
 > **August 2016 - July 2020**
