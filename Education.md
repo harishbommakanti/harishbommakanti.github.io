@@ -13,19 +13,20 @@ tags:
 # Education
 
 ## University of Texas at Austin
-> **August 2020 - Present**
+> **Bachelor of Science in Computer Science** &mdash; *Aug. 2020 - Present*
 
-*Bachelors of Science in Computer Science*
+GPA: 3.84
 
-GPA: 4.0
-
-**Relevant coursework**:
-* Computer Architecture (CS 429)
-* Data Structures (CS 314)
-* FRI Robot Learning (CS 309)
-* Discrete Math (CS 311)
-* Competitive Programming (CS 104C)
-* Introduction to Probability/Statistics (SDS 321)
+**Relevant Coursework**:
+* Computer Science
+  * Operating Systems (CS 439)
+  * Computer Architecture (CS 429)
+  * Data Structures (CS 314)
+  * FRI Robot Learning (CS 309)
+  * Discrete Math (CS 311)
+* Mathematics
+  * Linear Algebra (M 340L)
+  * Introduction to Probability/Statistics (SDS 321)
 
 **Teaching Assistant for**:
 * Elements of Computers/Programming (CS 303E)
@@ -33,13 +34,16 @@ GPA: 4.0
 
 
 ## Rouse High School
-> **August 2016 - July 2020**
+> *Aug. 2016 - Jul. 2020*
 
 GPA: 4.0, Rank: 2/400
 
-Relevant coursework: AP Computer Science, AP Calculus BC, AP Statistics
+**Relevant Coursework**:
+* AP Computer Science
+* AP Calculus BC
+* AP Statistics
 
-Clubs and positions: 
+**Clubs and positions**: 
 * Heavily invested in FTC/FRC robotics
     * Developed a scouting app for to automate the collection of data at competitions.
     * Software/Electrical lead for 3 years, Program manager for 1 year.

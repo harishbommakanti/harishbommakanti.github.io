@@ -6,26 +6,25 @@ sidebarDepth: 2
 .img-container img {
     width: 20%;
     height: 20%;
+    border-radius: 50%;
 }
 </style>
 
-![Profile pic](./images/face.jpg)
+<center>
+<img src="./images/face.jpg" alt="profile-picture">
+</center>
 
 </div>
 
-<b><p style = 'color:#4293d4'>Hey! My name is Harish Bommakanti and I'm an undergraduate at UT Austin pursuing a Bachelors in Computer Science.</p></b>
+<center>
+<b><p style = 'color:#4293d4'>Hey! I'm an undergraduate at UT Austin pursuing a Bachelors in Computer Science.</p></b>
+</center>
 
 ## Interests
-My current interests are:
-* Software Engineering
-* Robotics
-* Machine Learning
-* Research
-
-However, I'm always looking to learn about new fields as I take more [classes](./Education.md) and start new [projects](./Projects.md).
+My interests lie mostly Software Engineering and Mathematics. However, I'm always looking to learn about new fields as I take more [classes](./Education.md), start new [projects](./Projects.md), and land new [positions](./Experience.md).
 
 ## Contact
-Please feel free to reach out to me for any question and other opportunities. I look forward to meeting you.
+Please feel free to reach out to me for any questions or opportunities. Don't hesitate to share my <a href="./HarishBommakantiResume.pdf" download>resume</a> if you or anyone you know may be interested in working with me!
 
 <div style="display: flex; align-items:baseline">
 <p style= 'width: 50%'>Email:</p>
