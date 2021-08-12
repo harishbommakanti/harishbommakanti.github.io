@@ -14,20 +14,18 @@ tags:
 # Skills
 
 ## Programming Languages
-Proficient with: `Python, Java, C, JavaScript`
+Proficient with: **`Python, Java, C, JavaScript`**
 
-Familiar with: `Assembly, LabVIEW, HTML/CSS`
+Familiar with: **`x86-64 Assembly, LabVIEW, HTML/CSS`**
 
 ## Developer Tools
-Proficient with: `Git, GitHub, Perforce, Swarm, IntelliJ IDEA, VS Code, Vim, TeX, LaTeX`
+Proficient with: **`Git, GitHub, VS Code, IntelliJ IDEA, Jira, Confluence, Perforce, Swarm, Vim, TeX, LaTeX`**
 
 ## Web Frameworks
-Familiar with: `JavaScript/HTML/CSS, VuePress, Jekyll`
+Familiar with: **`JavaScript/HTML/CSS, VuePress, Jekyll`**
 
 ## Machine Learning Frameworks
-Familiar with: `Scikit-Learn, Robosuite`
+Familiar with: **`Scikit-Learn, PyTorch, TensorBoard, Robosuite`**
 
-## Human Languages
-Fluent in: `English`
-
-Conversational in: `Telugu`
+## Languages
+Conversational in: **`Telugu`**
