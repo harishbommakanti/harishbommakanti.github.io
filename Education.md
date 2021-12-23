@@ -13,16 +13,19 @@ tags:
 # Education
 
 ## University of Texas at Austin
-> **Bachelor of Science in Computer Science**<br>*Aug. 2020 - Present*<br>GPA: 3.84
+> **Bachelor of Science in Computer Science**<br>*Aug. 2020 - Present*<br>GPA: 3.81
 
 * **Relevant Coursework**
   * Computer Science
+    * Algorithms (CS 331)
+    * Programming for Correctness/Performance (CS 378)
     * Operating Systems (CS 439)
     * Computer Architecture (CS 429)
     * FRI Robot Learning (CS 309)
     * Data Structures (CS 314)
     * Discrete Math (CS 311)
   * Mathematics
+    * Differential Equations (M 427J)
     * Linear Algebra (M 340L)
     * Introduction to Probability/Statistics (SDS 321)
 

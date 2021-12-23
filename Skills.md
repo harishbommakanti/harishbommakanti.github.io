@@ -19,13 +19,15 @@ Proficient with: **`Python, Java, C, JavaScript`**
 Familiar with: **`x86-64 Assembly, LabVIEW, HTML/CSS`**
 
 ## Developer Tools
-Proficient with: **`Git, GitHub, VS Code, IntelliJ IDEA, Jira, Confluence, Perforce, Swarm, Vim, TeX, LaTeX`**
-
-## Web Frameworks
-Familiar with: **`JavaScript/HTML/CSS, VuePress, Jekyll`**
+Proficient with: **`Linux, Git, GitHub, GitLab, VS Code, IntelliJ IDEA, Jira, Confluence, Perforce, Swarm, Vim, TeX, LaTeX`**
 
 ## Machine Learning Frameworks
-Familiar with: **`Scikit-Learn, PyTorch, TensorBoard, Robosuite`**
+Proficient with: **`Scikit-Learn, PyTorch, TensorBoard, Robosuite`**
+
+## Web Frameworks
+Proficient with: **`VuePress`**
+  
+Familiar with: **`JavaScript/HTML/CSS, Jekyll`**
 
 ## Languages
-Conversational in: **`Telugu`**
+Fluent in: **`Telugu`**
