@@ -71,6 +71,13 @@ Technologies Used: `C, Git, GitHub`
 ## Personal Projects
 Here are a few projects developed for personal interest, spanning miscellaneous topics.
 
+### Portfolio Website
+- This website!
+
+Skills Demonstrated: `Web Development, UI/UX Design, Responsive Design`
+
+Technologies Used: `VuePress, JavaScript, HTML, CSS, Git, GitHub`
+
 ### Weather Prediction
 - A CLI program in Python to predict weather given data from the past 5 days.
 - Uses time series modeling to produce a multi-step forecast for 48 hours past the current time.
@@ -85,7 +92,7 @@ Technologies Used: `Python, JavaScript, Git, GitHub`
 - Authored a web application to automate data gathering at robotics events using JavaScript, HTML/CSS, and Jekyll.
 - Enabled both offline and online data aggregation for 50+ teams per event.
 
-Skills Demonstrated: `Formal Code Reviews, App Deployment, UI/UX Design`
+Skills Demonstrated: `Formal Code Reviews, App Deployment, Web Development, UI/UX Design`
 
 Technologies Used: `JavaScript, HTML, CSS, Jekyll, Git, GitHub`
 

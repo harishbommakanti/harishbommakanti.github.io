@@ -19,7 +19,7 @@ Proficient with: **`Python, Java, C, JavaScript`**
 Familiar with: **`x86-64 Assembly, LabVIEW, HTML/CSS`**
 
 ## Developer Tools
-Proficient with: **`Linux, Git, GitHub, GitLab, VS Code, IntelliJ IDEA, Jira, Confluence, Perforce, Swarm, Vim, TeX, LaTeX`**
+Proficient with: **`Linux, Git, GitHub, GitLab, Jira, Confluence, Perforce, Swarm, LaTeX`**
 
 ## Machine Learning Frameworks
 Proficient with: **`Scikit-Learn, PyTorch, TensorBoard, Robosuite`**

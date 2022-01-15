@@ -25,7 +25,6 @@ tags:
     * Data Structures (CS 314)
     * Discrete Math (CS 311)
   * Mathematics
-    * Differential Equations (M 427J)
     * Linear Algebra (M 340L)
     * Introduction to Probability/Statistics (SDS 321)
 

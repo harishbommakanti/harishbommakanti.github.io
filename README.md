@@ -7,7 +7,7 @@ sidebarDepth: 2
     width: 20%;
     height: 20%;
     border-radius: 50%;
-    border-width: 5px;
+    border-width: 3px;
     border-style: solid;
     border-color: #4293d4;
 }
