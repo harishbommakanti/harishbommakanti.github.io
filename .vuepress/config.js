@@ -12,7 +12,7 @@ module.exports = {
         prevLinks: false,
         displayAllHeaders: true,
         smoothScroll: true,
-        searchPlaceholder: 'College, Java, Resume...',
+        // searchPlaceholder: 'College, Internships, Resume...',
 
         sidebar: [
           ['/','Home'],

@@ -1,6 +1,11 @@
 ---
 sidebarDepth: 2
 tags: 
+  - mythic
+  - firmware
+  - intern
+  - internships
+  - ta
   - research
   - python
   - nasa

@@ -3,6 +3,9 @@ sidebarDepth: 2
 tags:
   - Github
   - Java
+  - college
+  - os
+  - memory
   - Interpreter
   - Langauge design
   - data structures
@@ -21,7 +24,7 @@ tags:
 Here are my most significant and recent projects. Check out my [GitHub](https://github.com/harishbommakanti) to see the source code and documentation for these projects and more.
 
 ## School Projects
-Here are a list of significant projects worked on through my undergraduate courses at UT. Please note that these will not be publically visible on GitHub or the like.
+Here are a list of significant projects worked on through my undergraduate courses at UT. Please note that these will not be publically visible on GitHub/GitLab/etc.
 
 ### Terminal Shell
 > Group project in CS 439: Operating Systems
@@ -77,6 +80,8 @@ Here are a few projects developed for personal interest, spanning miscellaneous 
 Skills Demonstrated: `Web Development, UI/UX Design, Responsive Design`
 
 Technologies Used: `VuePress, JavaScript, HTML, CSS, Git, GitHub`
+
+[GitHub](https://github.com/harishbommakanti/harishbommakanti.github.io/tree/build)
 
 ### Weather Prediction
 - A CLI program in Python to predict weather given data from the past 5 days.

@@ -1,5 +1,6 @@
 ---
 sidebarDepth: 2
+# no tags here as that causes search results to show '/', bad
 ---
 <div class="img-container">
 <style>

@@ -1,15 +1,31 @@
 ---
 sidebarDepth: 2
 tags: 
-  - java
   - python
-  - JavaScript
-  - html
+  - java
   - C
-  - css
+  - javascript
+  - x86-64
+  - assembly
   - labview
-  - jekyll
+  - html
+  - css
+  
+  - linux
+  - git
+  - jira
+  - confluence
+  - perforce
+  - swarm
+  - latex
+  
   - scikit-learn
+  - pytorch
+  - tensorboard
+  - robosuite
+
+  - vuepress
+  - jekyll
 ---
 # Skills
 
