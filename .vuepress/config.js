@@ -17,7 +17,6 @@ module.exports = {
         sidebar: [
           ['/','Home'],
           ['/Education','Education'],
-          ['/Skills','Skills'],
           ['/Experience','Experience'],
           ['/Projects','Projects']
         ]
