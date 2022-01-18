@@ -9,7 +9,7 @@ sidebarDepth: 2
 .img-container img {
     width: 20%;
     height: 20%;
-    border-radius: 0%;
+    border-radius: 50%;
     border-width: 3px;
     border-style: solid;
     border-color: #4293d4;
@@ -53,7 +53,7 @@ sidebarDepth: 2
 }
 
 .fa-file {
-  background-color: #322f30;
+  background-color: green;
   color: white;
 }
 
