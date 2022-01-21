@@ -11,32 +11,41 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Mythic, Inc.
+    url: "https://www.mythic-ai.com"
+    location: Austin, TX
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Mythic, Inc. is a growing startup that's using analog computing to build AI chips for edge devices that run on low power, low cost, and high speed.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Firmware Engineer Intern
+    start: May 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Aug. 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+      - Integrated new features/bug fixes to the customer facing Python API and firmware facing C API, resulting in a more serviceable AI accelerator chip.
+      - Collaborated with other software and hardware teams frequently to resolve product specification issues.
+      - Operated under the Agile Scrum methodology and completed 250% of the work assigned for the term.
+
+
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Department of Computer Science
+    url: "https://cs.utexas.edu"
+    location: Austin, TX
+    overview: The CS Department at UT Austin.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: "Teaching Assistant for CS 303E: Introduction to Python"
+    start: Jan. 2021
+    end: May 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+      - Guided learning in lecture and office hours for ~200 students in Introduction to Python as a Teaching Assistant.
+      - Wrote automated grading software in Python to grade student homework submissions.
+
+  - designation: "Research Assistant for Robot Perception and Learning Lab"
+    start: Oct. 2020
+    end: Jun. 2021
+    responsibilities:
+      - Tuned the PPO reinforcement learning algorithm in Python to demonstrate the usability of Robosuite, a robotics simulation framework.
+      - Leveraged data science frameworks such as TensorBoard/Matplotlib to exhibit robot movement metrics.
+
