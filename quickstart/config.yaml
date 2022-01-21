@@ -35,11 +35,13 @@ params:
   gitRepo: https://github.com/harishbommakanti/harishbommakanti.github.io
   gitBranch: hugo
 
+  background: "images/blue_gradient.png"
+
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
-  enableTOC: false
+  enableTOC: true
 
   # Provide newsletter configuration. 
   # This feature has been implemented for Mailchimp only for now.
