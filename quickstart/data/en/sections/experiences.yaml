@@ -10,87 +10,52 @@ section:
 
 # Your experiences
 experiences:
-
-
-
 - company:
-    name: Mythic, Inc.
-    url: "https://www.mythic-ai.com"
-    location: Austin, TX
+    name: Example Co.
+    url: "https://www.example.com"
+    location: Dhaka Branch
     # company overview
-    # overview: Mythic, Inc. is a growing startup that's using analog computing to build AI chips for edge devices that run on low power, low cost, and high speed.
+    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-
-  - designation: Firmware Engineer Intern
-    start: May 2021
+  - designation: Senior Software Engineer
+    start: Nov 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Aug. 2021
+    # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-      - Integrated new features/bug fixes to the customer facing Python API and firmware facing C API, resulting in a more serviceable AI accelerator chip.
-      - Collaborated with other software and hardware teams frequently to resolve product specification issues.
-      - Operated under the Agile Scrum methodology and completed 250% of the work assigned for the term.
-
-
-
-
-
-- company:
-    name: UT Austin Department of Computer Science
-    url: "https://cs.utexas.edu"
-    location: Austin, TX
-    # overview: The CS Department at UT Austin.
-  positions:
-
-  - designation: "Undergraduate Teaching Assistant for CS 303E: Introduction to Python"
-    start: Jan. 2021
-    end: May 2021
+    - Design and develop XYZ tool for ABC task
+    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    - Lead backend team.
+  - designation: Junior Software Engineer
+    start: Nov 2017
+    end: Oct 2019
     responsibilities:
-      - Guided learning in lecture and office hours for ~200 students in Introduction to Python as a Teaching Assistant.
-      - Wrote automated grading software in Python to grade student homework submissions.
-
-  - designation: "Undergraduate Research Assistant: Robot Perception and Learning Lab"
-    start: Oct. 2020
-    end: Jun. 2021
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    #  - Learn k,d,w technology for xyz.
+- company:
+    name: PreExample Co.
+    url: "https://www.example.com"
+    location: Nowhere
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Software Engineer
+    start: March 2016
+    end: May 2017
     responsibilities:
-      - Tuned the PPO reinforcement learning algorithm in Python to demonstrate the usability of Robosuite, a robotics simulation framework.
-      - Leveraged data science frameworks such as TensorBoard/Matplotlib to exhibit robot movement metrics.
-
-
-
-
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
 - company:
-    name: Oden Institute
-    url: "https://www.oden.utexas.edu"
-    location: Austin, TX
-    # overview: The Oden Institute for Computational Engineering and Sciences at UT Austin. It specializes in interdisciplinary studies focused on modeling and computation.
-
+    name: Intern Counting Company (ICC).
+    url: "https://www.example.com"
+    location: Intern Land
+    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
-    - designation: "Summer Research Intern: Computational Hydraulics Group"
-      start: Jun. 2019
-      end: Jun. 2019
-      responsibilities:
-        - Ran simulations on TACC supercomputers using software developed by the CHG labs to simulate coastal models.
-        - Modified/created Python scripts using data science libraries such as Matplotlib, Numpy, and Pandas along with development tools such as Jupyter Notebooks to help visualize ADCIRC results.
-
-
-- company:
-    name: NASA
-    url: "https://www.nasa.gov"
-    location: Houston, TX
-    # overview: 
-
-  positions:
-    - designation: High School Aerospace Scholars Program
-      start: Nov. 2018
-      end: Jun. 2019
-      responsibilities:
-        - Selected as 1 of 500 high school juniors to complete a yearlong NASA certified online course.
-        - Selected as 1 of 270 juniors to visit the Johnson Space Center and receive exclusive tours of JSC facilities.
-    - designation: Software Intern
-      start: Mar. 2018
-      end: Jul. 2018
-      responsibilities:
-        - Software Intern for the STEM Enhancement in Earth Science (SEES) program.
-        - "Aggregated precipitation data for 100s of Texas locations through National Weather Service REST endpoints with JavaScript to host on a [Center for Space Research website](https://agw-prim-green2.csr.utexas.edu/SEES2018/)"
-        - Automated a 10 minute data visualization process in mapping software to run in under 10 seconds in Python.
+  - designation: Intern
+    start: Jun 2015
+    end: Jan 2016
+    responsibilities:
+    - Count lost of interns.
+    - Count more interns.
+    - Count me as an intern.
