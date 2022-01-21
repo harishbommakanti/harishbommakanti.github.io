@@ -10,13 +10,17 @@ section:
 
 # Your experiences
 experiences:
+
+
+
 - company:
     name: Mythic, Inc.
     url: "https://www.mythic-ai.com"
     location: Austin, TX
     # company overview
-    overview: Mythic, Inc. is a growing startup that's using analog computing to build AI chips for edge devices that run on low power, low cost, and high speed.
+    # overview: Mythic, Inc. is a growing startup that's using analog computing to build AI chips for edge devices that run on low power, low cost, and high speed.
   positions:
+
   - designation: Firmware Engineer Intern
     start: May 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
@@ -29,23 +33,64 @@ experiences:
 
 
 
+
+
 - company:
-    name: Department of Computer Science
+    name: UT Austin Department of Computer Science
     url: "https://cs.utexas.edu"
     location: Austin, TX
-    overview: The CS Department at UT Austin.
+    # overview: The CS Department at UT Austin.
   positions:
-  - designation: "Teaching Assistant for CS 303E: Introduction to Python"
+
+  - designation: "Undergraduate Teaching Assistant for CS 303E: Introduction to Python"
     start: Jan. 2021
     end: May 2021
     responsibilities:
       - Guided learning in lecture and office hours for ~200 students in Introduction to Python as a Teaching Assistant.
       - Wrote automated grading software in Python to grade student homework submissions.
 
-  - designation: "Research Assistant for Robot Perception and Learning Lab"
+  - designation: "Undergraduate Research Assistant: Robot Perception and Learning Lab"
     start: Oct. 2020
     end: Jun. 2021
     responsibilities:
       - Tuned the PPO reinforcement learning algorithm in Python to demonstrate the usability of Robosuite, a robotics simulation framework.
       - Leveraged data science frameworks such as TensorBoard/Matplotlib to exhibit robot movement metrics.
 
+
+
+
+- company:
+    name: Oden Institute
+    url: "https://www.oden.utexas.edu"
+    location: Austin, TX
+    # overview: The Oden Institute for Computational Engineering and Sciences at UT Austin. It specializes in interdisciplinary studies focused on modeling and computation.
+
+  positions:
+    - designation: "Summer Research Intern: Computational Hydraulics Group"
+      start: Jun. 2019
+      end: Jun. 2019
+      responsibilities:
+        - Ran simulations on TACC supercomputers using software developed by the CHG labs to simulate coastal models.
+        - Modified/created Python scripts using data science libraries such as Matplotlib, Numpy, and Pandas along with development tools such as Jupyter Notebooks to help visualize ADCIRC results.
+
+
+- company:
+    name: NASA
+    url: "https://www.nasa.gov"
+    location: Houston, TX
+    # overview: 
+
+  positions:
+    - designation: High School Aerospace Scholars Program
+      start: Nov. 2018
+      end: Jun. 2019
+      responsibilities:
+        - Selected as 1 of 500 high school juniors to complete a yearlong NASA certified online course.
+        - Selected as 1 of 270 juniors to visit the Johnson Space Center and receive exclusive tours of JSC facilities.
+    - designation: Software Intern
+      start: Mar. 2018
+      end: Jul. 2018
+      responsibilities:
+        - Software Intern for the STEM Enhancement in Earth Science (SEES) program.
+        - "Aggregated precipitation data for 100s of Texas locations through National Weather Service REST endpoints with JavaScript to host on a [Center for Space Research website](https://agw-prim-green2.csr.utexas.edu/SEES2018/)"
+        - Automated a 10 minute data visualization process in mapping software to run in under 10 seconds in Python.

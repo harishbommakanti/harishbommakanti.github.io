@@ -30,12 +30,12 @@ socialLinks:
 - name: Email
   icon: "fas fa-envelope"
   url: "harish.bommakanti@utexas.edu"
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/harishbommakanti"
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/harishbommakanti"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/harishbommakanti"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.

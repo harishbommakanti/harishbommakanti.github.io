@@ -8,6 +8,8 @@ image: "images/harish.jpg"
 contactInfo:
   email: "harish.bommakanti@utexas.edu"
   # phone: "+0123456789"
+  linkedin: "harishbommakanti"
+  github: "harishbommakanti"
 
 # some summary about what you do
 summary:
