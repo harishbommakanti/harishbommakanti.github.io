@@ -17,7 +17,7 @@ description = "Harish Bommakanti's personal website"
 keywords = "blog,developer,personal"
 info = ["CS Student @ UT Austin"]
 avatarURL = "images/avatar.jpg"
-#gravatar = "harish.bommakanti@github.io"
+#gravatar = "harish.bommakanti@utexas.edu"
 dateFormat = "January 2, 2006"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
@@ -128,6 +128,12 @@ icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/harishbommakanti/"
 
+[[params.social]]
+name = "Resume"
+icon = "fa fa-2x fa-file"
+weight = 5
+url = "files/HarishBommakantiResume.pdf"
+
 #[[params.social]]
 #name = "Medium"
 #icon = "fa fa-2x fa-medium"
@@ -146,7 +152,7 @@ url = "https://www.linkedin.com/in/harishbommakanti/"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About Me"
+name = "About"
 weight = 1
 url = "about/"
 

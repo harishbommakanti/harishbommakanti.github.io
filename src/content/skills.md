@@ -6,4 +6,14 @@ aliases = ["skill", "code", "language"]
 author = "Harish Bommakanti"
 +++
 
-# skills info
+## Languages
+`Python, Java, C, JavaScript, x86-64 Assembly`
+
+## Tools
+`Linux, Git, GitHub, GitLab, Jira, Confluence, Perforce, Swarm, LaTeX`
+
+## ML-AI
+`Scikit-Learn, PyTorch, TensorBoard`
+
+## Web
+`HTML, CSS, Hugo, VuePress, Jekyll`
