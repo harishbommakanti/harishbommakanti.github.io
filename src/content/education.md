@@ -8,7 +8,7 @@ author = "Harish Bommakanti"
 
 ## UT Austin
 
-> Bachelor of Science in Computer Science -- Aug. 2020 - Present
+> **Bachelor of Science in Computer Science** -- Aug. 2020 - Present
 >
 > GPA: 3.81
 
