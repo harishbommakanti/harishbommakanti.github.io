@@ -6,14 +6,8 @@ aliases = ["about me", "info"]
 author = "Harish Bommakanti"
 +++
 
-I'm currently a sophomore undergrad at UT Austin pursuing a Bachelors in Computer Science.
+I'm an undergraduate junior at UT Austin pursuing a Bachelors in Computer Science.
 
-Here's a list of my current interests: 
-* AI
-* Software Engineering
-* Mathematics
-* Computer Hardware.
+My current interests include AI, Software Engineering, and Software Development. I've explored these in my past [positions](../experience), [courses](../education), and [projects](../projects). I'm always looking to expand my interests and explore them in new ways.
 
-However, I'm always looking to learn about new fields as I take more [classes](../education), start new [projects](../projects), and land new [positions](../experience).
-
-Feel free to reach out if you or anyone you know may be interested in working with me!
+:exclamation: I am currently looking for Summer 2023 internship roles. Feel free to reach out if you or anyone you know may be interested in working with me!

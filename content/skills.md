@@ -7,13 +7,10 @@ author = "Harish Bommakanti"
 +++
 
 ## Languages
-`Python, Java, C, JavaScript, x86-64 Assembly`
+`Python, Java, C++, C`
 
-## Tools
-`Linux, Git, GitHub, GitLab, Jira, Confluence, Perforce, Swarm, LaTeX`
+## Developer Tools
+`Linux, Git, Atlassian Suite, CMake`
 
 ## ML-AI
-`Scikit-Learn, PyTorch, TensorBoard`
-
-## Web
-`HTML, CSS, Hugo, VuePress, Jekyll`
+`Scikit-Learn, PyTorch`
