@@ -6,7 +6,7 @@ aliases = ["about me", "info"]
 author = "Harish Bommakanti"
 +++
 
-I'm an undergraduate junior at UT Austin pursuing a Bachelors in Computer Science.
+:wave: I'm an undergraduate Junior in the CS program at UT Austin.
 
 My current interests include AI, Software Engineering, and Software Development. I've explored these in my past [positions](../experience), [courses](../education), and [projects](../projects). I'm always looking to expand my interests and explore them in new ways.
 
