@@ -1,7 +1,7 @@
 +++
 title = "Education"
 description = "Academic and educational history of Harish Bommakanti"
-date = "2022-01-21"
+date = "2022-08-10"
 aliases = ["education", "edu", "academic"]
 author = "Harish Bommakanti"
 +++
@@ -12,10 +12,11 @@ author = "Harish Bommakanti"
 
 > **Bachelor of Science in Computer Science**
 > 
-> Aug. 2020 - Dec. 2023
+> Aug. 2020 - May. 2023
 
 Relevant Coursework:
   * Artificial Intelligence (CS 343)
+  * Quantum Computing Honors (CS 358H)
   * Safe and Ethical AI (CS 378)
   * Algorithms (CS 331)
   * Programming for Correctness/Performance (CS 378)

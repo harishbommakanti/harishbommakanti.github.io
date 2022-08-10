@@ -1,7 +1,7 @@
 +++
 title = "Projects"
 description = "Projects done by Harish Bommakanti"
-date = "2022-01-21"
+date = "2022-08-10"
 aliases = ["project"]
 author = "Harish Bommakanti"
 +++
