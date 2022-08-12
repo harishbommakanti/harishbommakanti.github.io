@@ -10,7 +10,7 @@ author = "Harish Bommakanti"
 `Python, Java, C++, C`
 
 ## Developer Tools
-`Linux, Git, Atlassian Suite, CMake`
+`Linux, Git, GitHub, GitLab, Gerrit, Atlassian Suite, CMake`
 
 ## ML-AI
-`Scikit-Learn, PyTorch`
+`Numpy, Pandas, Scipy, Matplotlib, Scikit-Learn, PyTorch`
