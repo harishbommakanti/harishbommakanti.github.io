@@ -16,7 +16,7 @@ author = "Harish Bommakanti"
 
 Relevant Coursework:
   * Artificial Intelligence (CS 343)
-  * Quantum Computing Honors (CS 358H)
+  * Machine Learning 1 (CS 363M)
   * Safe and Ethical AI (CS 378)
   * Algorithms (CS 331)
   * Programming for Correctness/Performance (CS 378)
