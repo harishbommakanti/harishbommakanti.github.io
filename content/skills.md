@@ -14,3 +14,6 @@ author = "Harish Bommakanti"
 
 ## ML-AI
 `Numpy, Pandas, Scipy, Matplotlib, Scikit-Learn, PyTorch`
+
+## Web
+`HTML, CSS, JavaScript, Bootstrap, Flask, Docker, AWS, SQL`
