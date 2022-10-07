@@ -38,7 +38,7 @@ Artificial Intelligence (CS 343) Machine Learning 1 (CS 363M) Modern Web Applica
       <description>Here are some of the experiences I&amp;rsquo;ve had since the start of my undergrad. Visit my LinkedIn profile to see more about my professional and career life.
 UT Austin Research Labs Volunteer Research Assistant
 Jun. 2019 - Present
-Contributed Python tools to analyze/visualize behavioral metrics in a DARPA project that uses AI to classify actors as harmful in simulations. Utilized RL algorithms such as PPO in Python to provide benchmarks for the Robosuite robotics simulation library.</description>
+Tracked 10+ metrics per actor using Python in a DARPA AI project that predicts harmful actors in a crowd. Contributed Matplotlib tools to visualize probabilities of harmful actors working as a group, given said metrics.</description>
     </item>
     
     <item>
@@ -49,8 +49,8 @@ Contributed Python tools to analyze/visualize behavioral metrics in a DARPA proj
       <guid>https://harishbommakanti.github.io/projects/</guid>
       <description>Here are my most significant and recent projects. Check out my GitHub to see the source code and documentation for these projects and more.
 Class projects will not be publicly visible on GitHub/GitLab/etc.
-Operating Systems Class Projects Aug. 2021 – Dec. 2021
-Built a shell application to parse command-line Linux arguments and manage processes in C. Added threading, system call, virtual memory, and file utilities to the Pintos operating system using C.</description>
+Artificial Intelligence Class Projects Aug. 2022 – Dec. 2022
+Implemented IDA* to efficiently search for a path through a maze in OpenNERO in Python. Experimented with and iterated upon Neural Network design to predict COVID-19 cases given timeseries data Developed Neuroevolution algorithms to prescribe actions to minimize COVID-19 cases, given historical data.</description>
     </item>
     
     <item>
@@ -61,7 +61,7 @@ Built a shell application to parse command-line Linux arguments and manage proce
       <guid>https://harishbommakanti.github.io/skills/</guid>
       <description>Languages Python, Java, C++, C
 Developer Tools Linux, Git, GitHub, GitLab, Gerrit, Atlassian Suite, CMake
-ML-AI Numpy, Pandas, Scipy, Matplotlib, Scikit-Learn, PyTorch
+ML-AI Numpy, Pandas, Scipy, Matplotlib, Scikit-Learn, PyTorch, TensorFlow
 Web HTML, CSS, JavaScript, Bootstrap, Flask, Docker, AWS, SQL</description>
     </item>
     

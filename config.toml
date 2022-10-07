@@ -159,19 +159,19 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Education"
+name = "Skills"
 weight = 2
+url = "skills/"
+
+[[languages.en.menu.main]]
+name = "Education"
+weight = 3
 url = "education/"
 
 [[languages.en.menu.main]]
 name = "Experience"
-weight = 3
-url = "experience/"
-
-[[languages.en.menu.main]]
-name = "Skills"
 weight = 4
-url = "skills/"
+url = "experience/"
 
 [[languages.en.menu.main]]
 name = "Projects"

@@ -10,6 +10,19 @@ Here are my most significant and recent projects. Check out my [GitHub](https://
 
 Class projects will not be publicly visible on GitHub/GitLab/etc.
 
+## Artificial Intelligence Class Projects
+> Aug. 2022 – Dec. 2022
+- Implemented IDA* to efficiently search for a path through a maze in OpenNERO in Python.
+- Experimented with and iterated upon Neural Network design to predict COVID-19 cases given timeseries data
+- Developed Neuroevolution algorithms to prescribe actions to minimize COVID-19 cases, given historical data.
+- Built Reinforcement Learning algorithms to play a 3D first person shooter game.
+
+---
+
+## Music Marketplace
+> Aug. 2022 - Dec. 2022
+- Designed a full stack web application to connect music students with tutors.
+- Website utilizes JavaScript and Bootstrap for the front end and Flask, SQL, and AWS for the backend.
 ---
 
 ## Operating Systems Class Projects
@@ -21,7 +34,8 @@ Class projects will not be publicly visible on GitHub/GitLab/etc.
 
 ## Robot Learning Class Projects
 > Jan. 2021 – May. 2021
-- Employed AI techniques such as regression and neural networks using Scikit-learn and PyTorch to perform robotic tasks in simulation such as selectively picking up objects based on color.
+- Employed AI techniques to perform robotic tasks in simulation involving grasping and vision.
+- Achieved high accuracies of 80%+ with Regression/Neural Networks using Scikit-Learn and PyTorch.
 
 ---
 

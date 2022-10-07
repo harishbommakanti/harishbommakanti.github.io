@@ -13,7 +13,7 @@ author = "Harish Bommakanti"
 `Linux, Git, GitHub, GitLab, Gerrit, Atlassian Suite, CMake`
 
 ## ML-AI
-`Numpy, Pandas, Scipy, Matplotlib, Scikit-Learn, PyTorch`
+`Numpy, Pandas, Scipy, Matplotlib, Scikit-Learn, PyTorch, TensorFlow`
 
 ## Web
 `HTML, CSS, JavaScript, Bootstrap, Flask, Docker, AWS, SQL`
