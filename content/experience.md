@@ -68,7 +68,7 @@ Here are some of the experiences I've had since the start of my undergrad. Visit
 > *Jul. 2018*
 
 - Aggregated precipitation data for 100s of Texas locations through National Weather Service REST endpoints.
-- Designed a web app utilizing this data with JavaScript, hosted on a Center for Space Research website.
+- Designed a web app utilizing this data with JavaScript, hosted on a [Center for Space Research website](https://agw-prim-green2.csr.utexas.edu/SEES2018/).
 - Automated a 10 minute data visualization process in mapping software to run in under 10 seconds in Python.
 
 ---
