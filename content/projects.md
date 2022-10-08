@@ -13,9 +13,9 @@ Class projects will not be publicly visible on GitHub/GitLab/etc.
 ## Artificial Intelligence Class Projects
 > Aug. 2022 – Dec. 2022
 - Implemented IDA* to efficiently search for a path through a maze in OpenNERO in Python.
-- Experimented with and iterated upon Neural Network design to predict COVID-19 cases given timeseries data
+- Experimented with and iterated upon Neural Network design to predict COVID-19 cases given timeseries data.
 - Developed Neuroevolution algorithms to prescribe actions to minimize COVID-19 cases, given historical data.
-- Built Reinforcement Learning algorithms to play a 3D first person shooter game.
+- Trained Reinforcement Learning algorithms to play a 3D first person shooter game.
 
 ---
 

@@ -38,7 +38,7 @@ Artificial Intelligence (CS 343) Machine Learning 1 (CS 363M) Modern Web Applica
       <description>Here are some of the experiences I&amp;rsquo;ve had since the start of my undergrad. Visit my LinkedIn profile to see more about my professional and career life.
 UT Austin Research Labs Volunteer Research Assistant
 Jun. 2019 - Present
-Tracked 10+ metrics per actor using Python in a DARPA AI project that predicts harmful actors in a crowd. Contributed Matplotlib tools to visualize probabilities of harmful actors working as a group, given said metrics.</description>
+Extracted 10+ metrics per actor using Python in a DARPA AI project that predicts harmful actors in a crowd. Contributed Matplotlib tools to visualize probabilities of harmful actors working as a group, given said metrics.</description>
     </item>
     
     <item>
@@ -50,7 +50,7 @@ Tracked 10+ metrics per actor using Python in a DARPA AI project that predicts h
       <description>Here are my most significant and recent projects. Check out my GitHub to see the source code and documentation for these projects and more.
 Class projects will not be publicly visible on GitHub/GitLab/etc.
 Artificial Intelligence Class Projects Aug. 2022 – Dec. 2022
-Implemented IDA* to efficiently search for a path through a maze in OpenNERO in Python. Experimented with and iterated upon Neural Network design to predict COVID-19 cases given timeseries data Developed Neuroevolution algorithms to prescribe actions to minimize COVID-19 cases, given historical data.</description>
+Implemented IDA* to efficiently search for a path through a maze in OpenNERO in Python. Experimented with and iterated upon Neural Network design to predict COVID-19 cases given timeseries data.</description>
     </item>
     
     <item>

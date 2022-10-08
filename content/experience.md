@@ -15,10 +15,10 @@ Here are some of the experiences I've had since the start of my undergrad. Visit
 > 
 > *Jun. 2019 - Present*
 
-- Tracked 10+ metrics per actor using Python in a [DARPA AI project](https://github.com/stevencarrau/decentralized_classification/tree/simulation) that predicts harmful actors in a crowd.
+- Extracted 10+ metrics per actor using Python in a [DARPA AI project](https://github.com/stevencarrau/decentralized_classification/tree/simulation) that predicts harmful actors in a crowd.
 - Contributed Matplotlib tools to visualize probabilities of harmful actors working as a group, given said metrics.
 - Demonstrated the usability of Robosuite robotics simulation by generating Python/TensorFlow [benchmarks](https://github.com/harishbommakanti/rpl_sb_efforts).
-- Achieved 65%+ of performance compared to state-of-the-art industry RL methods and simulation benchmarks.
+- Achieved 65% of performance compared to state-of-the-art industry RL methods and simulation benchmarks.
 
 ---
 
@@ -27,9 +27,9 @@ Here are some of the experiences I've had since the start of my undergrad. Visit
 > 
 > *May 2022 - Aug. 2022*
 
-- Added code to and united 3+ projects using C++/CMake code to query phone GPU diagnostics.
+- Enhanced and united 3+ projects using C++/CMake code to easily query mobile phone GPU diagnostics.
 - Established guidelines for testing this new functionality using GoogleTest.
-- Optimized speed and size by 10x of the GPU crash reporting system in Linux KMD using Python and C.
+- Optimized speed and size of the GPU crash reporting system in Linux KMD by 10x using Python and C.
 
 ---
 
@@ -39,7 +39,7 @@ Here are some of the experiences I've had since the start of my undergrad. Visit
 > *May 2021 - Aug. 2021*
 
 - Enabled pipelines to expose AI chip statistics such as temperature readings to end-users using Python and C.
-- Added 5+ new PCIe features and improved boot flow procedure for use in the customer facing Python API.
+- Streamlined the customer facing Python API with 5+ new PCIe features and a more robust boot flow.
 - Collaborated with other software and hardware teams frequently to resolve product specification issues.
 - Operated under the Agile Scrum methodology and completed 200% of the work assigned for the term.
 
