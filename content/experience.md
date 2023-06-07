@@ -10,18 +10,6 @@ Here are some of the experiences I've had since the start of my undergrad. Visit
 
 ---
 
-## UT Austin Research Labs
-> **Volunteer Research Assistant**
-> 
-> *Jun. 2019 - Present*
-
-- Extracted 10+ metrics per actor using Python in a [DARPA AI project](https://github.com/stevencarrau/decentralized_classification/tree/simulation) that predicts harmful actors in a crowd.
-- Contributed Matplotlib tools to visualize probabilities of harmful actors working as a group, given said metrics.
-- Demonstrated the usability of Robosuite robotics simulation by generating Python/TensorFlow [benchmarks](https://github.com/harishbommakanti/rpl_sb_efforts).
-- Achieved 65% of performance compared to state-of-the-art industry RL methods and simulation benchmarks.
-
----
-
 ## Samsung Electronics
 > **Software Engineer Intern**
 > 
@@ -30,6 +18,18 @@ Here are some of the experiences I've had since the start of my undergrad. Visit
 - Enhanced and united 3+ projects using C++/CMake code to easily query mobile phone GPU diagnostics.
 - Established guidelines for testing this new functionality using GoogleTest.
 - Optimized speed and size of the GPU crash reporting system in Linux KMD by 10x using Python and C.
+
+---
+
+## UT Austin Research Labs
+> **Volunteer Research Assistant**
+> 
+> *Jun. 2019 - May 2022*
+
+- Extracted 10+ metrics per actor using Python in a [DARPA AI project](https://github.com/stevencarrau/decentralized_classification/tree/simulation) that predicts harmful actors in a crowd.
+- Contributed Matplotlib tools to visualize probabilities of harmful actors working as a group, given said metrics.
+- Demonstrated the usability of Robosuite robotics simulation by generating Python/TensorFlow [benchmarks](https://github.com/harishbommakanti/rpl_sb_efforts).
+- Achieved 65% of performance compared to state-of-the-art industry RL methods and simulation benchmarks.
 
 ---
 

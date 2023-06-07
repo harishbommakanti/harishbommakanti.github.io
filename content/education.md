@@ -12,11 +12,14 @@ author = "Harish Bommakanti"
 
 > **Bachelor of Science in Computer Science**
 > 
-> Aug. 2020 - May. 2023
+> Aug. 2020 - May 2023
 
 Relevant Coursework:
+  * Machine Learning II (CS 364M)
+  * Wireless Networks (CS 356R)
+  * Symbolic Programming (CS 378)
   * Artificial Intelligence (CS 343)
-  * Machine Learning 1 (CS 363M)
+  * Machine Learning I (CS 363M)
   * Modern Web Applications (CS 378)
   * Algorithms (CS 331)
   * Programming for Correctness/Performance (CS 378)

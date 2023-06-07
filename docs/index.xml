@@ -12,9 +12,8 @@
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://harishbommakanti.github.io/about/</guid>
-      <description>👋 I&amp;rsquo;m an undergraduate Senior in the CS program at UT Austin, graduating in May 2023.
-My current interests include AI, Software Engineering, and Software Development. I&amp;rsquo;ve explored these in my past positions, courses, and projects. I&amp;rsquo;m always looking to expand my interests and explore them in new ways.
-❗ I am currently applying for 2023 Full Time Software roles. Feel free to reach out if you or anyone you know may be interested in working with me!</description>
+      <description>👋 I graduated from UT Austin in May &amp;lsquo;23 with a BS degree in CS and have a passion for AI, ML, and Software Engineering. I&amp;rsquo;ve explored these in my past positions, courses, and projects. I&amp;rsquo;m always looking to expand my interests and explore them in new ways.
+Feel free to reach out if you or anyone you know may be interested in working with me!</description>
     </item>
     
     <item>
@@ -24,9 +23,9 @@ My current interests include AI, Software Engineering, and Software Development.
       
       <guid>https://harishbommakanti.github.io/education/</guid>
       <description> UT Austin Bachelor of Science in Computer Science
-Aug. 2020 - May. 2023
+Aug. 2020 - May 2023
 Relevant Coursework:
-Artificial Intelligence (CS 343) Machine Learning 1 (CS 363M) Modern Web Applications (CS 378) Algorithms (CS 331) Programming for Correctness/Performance (CS 378) Operating Systems (CS 439) Computer Architecture (CS 429) FRI Robot Learning (CS 309) Data Structures (CS 314) Discrete Math (CS 311) Linear Algebra (M 340L) Introduction to Probability/Statistics (SDS 321) </description>
+Machine Learning II (CS 364M) Wireless Networks (CS 356R) Symbolic Programming (CS 378) Artificial Intelligence (CS 343) Machine Learning I (CS 363M) Modern Web Applications (CS 378) Algorithms (CS 331) Programming for Correctness/Performance (CS 378) Operating Systems (CS 439) Computer Architecture (CS 429) FRI Robot Learning (CS 309) Data Structures (CS 314) Discrete Math (CS 311) Linear Algebra (M 340L) Introduction to Probability/Statistics (SDS 321) </description>
     </item>
     
     <item>
@@ -36,9 +35,9 @@ Artificial Intelligence (CS 343) Machine Learning 1 (CS 363M) Modern Web Applica
       
       <guid>https://harishbommakanti.github.io/experience/</guid>
       <description>Here are some of the experiences I&amp;rsquo;ve had since the start of my undergrad. Visit my LinkedIn profile to see more about my professional and career life.
-UT Austin Research Labs Volunteer Research Assistant
-Jun. 2019 - Present
-Extracted 10+ metrics per actor using Python in a DARPA AI project that predicts harmful actors in a crowd. Contributed Matplotlib tools to visualize probabilities of harmful actors working as a group, given said metrics.</description>
+Samsung Electronics Software Engineer Intern
+May 2022 - Aug. 2022
+Enhanced and united 3+ projects using C++/CMake code to easily query mobile phone GPU diagnostics. Established guidelines for testing this new functionality using GoogleTest. Optimized speed and size of the GPU crash reporting system in Linux KMD by 10x using Python and C.</description>
     </item>
     
     <item>
