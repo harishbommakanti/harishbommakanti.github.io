@@ -16,7 +16,7 @@ enableEmoji = true
 author = "Harish Bommakanti"
 description = "Harish Bommakanti's personal website"
 keywords = "blog,developer,personal"
-info = ["CS @ UT Austin '23"]
+info = ["Associate SWE @ Veeva Systems", "UT Austin CS Alumni '23"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "harish.bommakanti@utexas.edu"
 favicon_32 = "images/favicon.png"
@@ -134,7 +134,7 @@ url = "https://www.linkedin.com/in/harishbommakanti/"
 name = "Resume"
 icon = "fa fa-2x fa-file"
 weight = 5
-url = "files/HarishBommakantiResume.pdf"
+url = "files/Harish_Bommakanti_Resume.pdf"
 
 #[[params.social]]
 #name = "Medium"

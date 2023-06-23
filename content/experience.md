@@ -8,6 +8,13 @@ author = "Harish Bommakanti"
 
 Here are some of the experiences I've had since the start of my undergrad. Visit my [LinkedIn](https://linkedin.com/in/harishbommakanti) profile to see more about my professional and career life.
 
+## Veeva Systems
+> **Associate Software Engineer**
+> 
+> *Jun. 2023 - Present*
+
+- Working on the MyVeeva for Patients product, utilizing backend technologies like Java and Spring Boot.
+
 ---
 
 ## Samsung Electronics
@@ -21,7 +28,7 @@ Here are some of the experiences I've had since the start of my undergrad. Visit
 
 ---
 
-## UT Austin Research Labs
+## UT Austin
 > **Volunteer Research Assistant**
 > 
 > *Jun. 2019 - May 2022*
@@ -45,7 +52,7 @@ Here are some of the experiences I've had since the start of my undergrad. Visit
 
 ---
 
-## UT Department of Computer Science
+## UT Austin
 > **Undergraduate Teaching Assistant**
 >
 > *Jan. 2021 - May 2021*

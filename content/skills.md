@@ -16,4 +16,4 @@ author = "Harish Bommakanti"
 `Numpy, Pandas, Scipy, Matplotlib, Scikit-Learn, PyTorch, TensorFlow`
 
 ## Web
-`HTML, CSS, JavaScript, Bootstrap, Flask, Docker, AWS, SQL`
+`Spring Boot, HTML, CSS, JavaScript, Bootstrap, Flask, Docker, AWS, SQL`
