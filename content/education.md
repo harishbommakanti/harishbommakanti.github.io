@@ -8,6 +8,14 @@ author = "Harish Bommakanti"
 
 ---
 
+## Georgia Tech
+
+> **Master of Science in Computer Science**
+>
+> Aug. 2023 - May 2025
+
+---
+
 ## UT Austin
 
 > **Bachelor of Science in Computer Science**
